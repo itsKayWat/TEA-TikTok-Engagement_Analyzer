@@ -1,0 +1,3 @@
+selenium==4.16.0
+psutil==5.9.8
+tkinter  # Usually comes with Python
