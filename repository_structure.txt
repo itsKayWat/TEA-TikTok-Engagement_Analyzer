@@ -1,0 +1,10 @@
+TikTok-Engagement-Analyzer/
+├── src/
+│   ├── tt-analytics.py
+│   └── install_requirements.py
+├── docs/
+│   ├── README.html
+│   └── README.txt
+├── requirements.txt
+├── LICENSE
+└── README.md 
